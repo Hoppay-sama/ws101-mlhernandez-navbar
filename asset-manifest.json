@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-mlhernandez-navbar/static/css/main.167be417.css",
+    "main.js": "/ws101-mlhernandez-navbar/static/js/main.05b5d376.js",
+    "index.html": "/ws101-mlhernandez-navbar/index.html",
+    "main.167be417.css.map": "/ws101-mlhernandez-navbar/static/css/main.167be417.css.map",
+    "main.05b5d376.js.map": "/ws101-mlhernandez-navbar/static/js/main.05b5d376.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.167be417.css",
+    "static/js/main.05b5d376.js"
+  ]
+}
